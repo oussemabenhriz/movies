@@ -1,0 +1,11 @@
+.MoviePage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: space-around;
+  }
+  .desciption {
+    margin: 0% 10%;
+    color: aliceblue;
+  }

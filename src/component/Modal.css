@@ -1,0 +1,20 @@
+.back {
+    box-sizing: border-box;
+    height: 400px;
+    width: 250px;
+  }
+  .AddBtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 160px;
+    color: brown;
+  }
+  .AddBtn:hover {
+    color: beige;
+    cursor: pointer;
+  }
+  .Input {
+    display: flex;
+    flex-direction: column;
+  }

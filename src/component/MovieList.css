@@ -1,0 +1,8 @@
+.background {
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+    margin: 0% 5%;
+}

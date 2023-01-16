@@ -1,0 +1,22 @@
+.Background {
+    height: 400px;
+    width: 250px;
+    box-sizing: border-box;
+    margin: 0% 0% 3% 0% ;
+  }
+  .pic {
+    height: 400px;
+    width: 250px;
+  }
+  .dess {
+    height: 400px;
+    width: 250px;
+    background-color: rgba(199, 199, 199, 0.658);
+    display: flex;
+    flex-direction: column;
+    justify-items: space-between;
+    padding: 1%;
+    position: relative;
+    top: -100%;
+    z-index: 1;
+  }
